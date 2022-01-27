@@ -1,5 +1,0 @@
-{
-    "require": {
-        "laminas/laminas-soap": "^2.6"
-    }
-}
